@@ -102,7 +102,7 @@ cp .env.example .env
 `.env`에 유효한 OpenAI API key를 입력합니다.
 
 ```env
-OPENAI_API_KEY=sk-proj-your-actual-key
+OPENAI_API_KEY=replace-with-your-key
 OPENAI_CHAT_MODEL=gpt-4o-mini
 OPENAI_EMBEDDING_MODEL=text-embedding-3-small
 ```
